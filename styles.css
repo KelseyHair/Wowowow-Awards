@@ -1,0 +1,38 @@
+img{
+    width:500px;
+}
+h1{
+    font-family: 'Chakra Petch', sans-serif;
+    color:gold;
+    font-size:80px;
+    text-align:center;
+}
+body{
+    background-image: url("https://d2v9y0dukr6mq2.cloudfront.net/video/thumbnail/BLcOqevFirn3iyc5/videoblocks-award-background-loop_sskydkece_thumbnail-full01.png");
+}
+
+p{
+    color:yellow;
+    font-size:35px;
+    text-align:center;
+    font-family: 'Ranga', cursive;
+}
+.center{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+    width:50%;
+}
+.answer{
+    font-family: 'Indie Flower', cursive;
+    color:aqua;
+    font-size:45px;
+    
+}
+h2{
+    color:gold;
+    font-size:80px;
+    text-align:center;
+    font-family: 'Chakra Petch', sans-serif;
+}
+
